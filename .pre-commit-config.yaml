@@ -1,5 +1,5 @@
 repos:
-- repo:  https://github.com/milin/giticket
+- repo: https://github.com/milin/giticket
   rev: v1.3
   hooks:
-  - id:  giticket
+  - id: giticket
